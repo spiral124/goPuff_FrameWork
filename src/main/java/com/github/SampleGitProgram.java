@@ -6,6 +6,7 @@ public class SampleGitProgram {
 		
 		System.out.println("Welcome to our goPuff Project");
 		System.out.println("Fun enjoy");
+		System.out.println("Hello");
 		
 	}
 	
